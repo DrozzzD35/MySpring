@@ -28,7 +28,7 @@ public class OrderService {
     - изменить зависимость
 
 
-    Нельз делать:
+    Нельзя делать:
 
     @Autowired
     private OrderRepository orderRepository2;
